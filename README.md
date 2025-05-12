@@ -1,9 +1,8 @@
-# DA-Project-archieve
-This is a Data Analysis end to end project
-## Objectives:
+# Vrinda Store Data Analysis (Interactive dashboard creation using MS Excel)
+## Project Objectives:
 Vrinda store wants to create a annual sales report for 2023. So that, Vrinda can understand their customers and grow sales in 2024
 
-## Key Questions:
+## Key Questions (KPI's):
 1. Compare the sales and orders using single chart
 2. Which month got highest sales and orders?
 3. Who purchased more men or women in 2023
