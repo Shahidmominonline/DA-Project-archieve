@@ -20,3 +20,8 @@ Vrinda store wants to create a annual sales report for 2023. So that, Vrinda can
 
 ## Final conclusion:
 to improve Vrinda store sales,target Women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+
+## Dataset file link: https://github.com/rishabhnmishra/Excel_Vrinda_Store_Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
+
+## Dashboard 
+![Screenshot 2025-05-12 213245](https://github.com/user-attachments/assets/ce5fd62f-e8ad-47c3-9873-cdc7da131fa4)
