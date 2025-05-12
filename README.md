@@ -24,4 +24,5 @@ to improve Vrinda store sales,target Women customers of age group (30-49 yrs) li
 ## Dataset file link: https://github.com/rishabhnmishra/Excel_Vrinda_Store_Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
 
 ## Dashboard 
-![Screenshot 2025-05-12 213245](https://github.com/user-attachments/assets/ce5fd62f-e8ad-47c3-9873-cdc7da131fa4)
+![Screenshot 2025-05-12 213451](https://github.com/user-attachments/assets/b98bcbaf-40d7-4daf-92f6-bb08ff0dbcfe)
+
